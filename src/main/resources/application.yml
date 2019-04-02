@@ -1,0 +1,7 @@
+spring:
+  application.name: rots-app
+raspberry:
+  pir:
+    pin.address: 28
+pcf:
+  url: https://roomtracking.cfapps.io/rots/occupy
